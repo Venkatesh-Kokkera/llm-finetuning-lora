@@ -35,4 +35,4 @@ pip install -r requirements.txt
 python train.py --model_name "meta-llama/Llama-2-7b-hf" --epochs 3
 python evaluate.py --model_path ./checkpoints/
 
-Venkatesh Kokkera · LinkedIn · Email
+Venkatesh Kokkera 📧 vkokkeravk@gmail.com · 💼 LinkedIn:https://www.linkedin.com/in/venkatesh-ko/ · 📞 +1 (203) 479-2974 . 📍 Lowell, MA 
